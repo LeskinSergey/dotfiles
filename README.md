@@ -1,3 +1,4 @@
 # dotfiles
 neovim config with lua
-<img width="1795" alt="image" src="https://user-images.githubusercontent.com/86616794/221195986-e4e54e44-ece7-4b6b-b3a2-791c7ca16c6b.png">
+<img width="1635" alt="image" src="https://user-images.githubusercontent.com/86616794/221196246-b1ab01e2-87e4-4261-bf40-559149e5b50e.png">
+
