@@ -3,6 +3,10 @@ local lsp = require('lsp-zero')
 lsp.preset('recommended')
 lsp.setup()
 
+vim.diagnostic.config({
+    virtual_text = true,
+})
+
 lsp.on_attach(function(_, bufnr)
     local noremap = { buffer = bufnr, remap = false }
     local bind = vim.keymap.set
